@@ -1,0 +1,22 @@
+{
+  "name": "homework-8",
+  "version": "1.0.0",
+  "description": "npm practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olena-diachenko/homework-8.git"
+  },
+  "author": "Olena Diachenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olena-diachenko/homework-8/issues"
+  },
+  "homepage": "https://github.com/olena-diachenko/homework-8#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
